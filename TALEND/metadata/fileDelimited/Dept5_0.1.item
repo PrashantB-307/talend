@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_VnH2EVu2EfCPE9JQNH6HYQ" name="Dept5" dataPackage="_VnH2Elu2EfCPE9JQNH6HYQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/pkuma844/Documents/Talend_Practice_Files/capgemini/dept5.txt" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_VnH2Elu2EfCPE9JQNH6HYQ" name="default" dataManager="_VnH2EVu2EfCPE9JQNH6HYQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_VnH2E1u2EfCPE9JQNH6HYQ" id="_OjsPkFu2EfCPE9JQNH6HYQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_VnH2FFu2EfCPE9JQNH6HYQ" label="dept_no" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_VnH2FVu2EfCPE9JQNH6HYQ" label="dept_name" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_VnH2Flu2EfCPE9JQNH6HYQ" label="location" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
