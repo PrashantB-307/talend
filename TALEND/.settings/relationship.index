@@ -182,6 +182,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
     "id" : "TALEND:_Tb9ukFyREfC9BuzHAsgUrw",
     "version" : "Latest",
     "type" : "job"
