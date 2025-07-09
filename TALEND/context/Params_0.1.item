@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_13o6kFx7EfC9BuzHAsgUrw" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_8vTV8Fx7EfC9BuzHAsgUrw" comment="" name="file_path" prompt="file_path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_8vTV8Vx7EfC9BuzHAsgUrw" comment="" name="user_name" prompt="user_name?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_8vTV8lx7EfC9BuzHAsgUrw" comment="" name="pwd" prompt="pwd?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_8vTV81x7EfC9BuzHAsgUrw" comment="" name="host_name" prompt="host_name?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_8vTV9Fx7EfC9BuzHAsgUrw" comment="" name="port" prompt="port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_Z-6jYFx_EfC9BuzHAsgUrw" comment="" name="database" prompt="database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>

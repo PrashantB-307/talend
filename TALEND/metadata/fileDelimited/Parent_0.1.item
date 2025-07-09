@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_yNydAFyREfC9BuzHAsgUrw" name="Parent" dataPackage="_yNydAVyREfC9BuzHAsgUrw" Server="Localhost 127.0.0.1" FilePath="C:/Users/pkuma844/Documents/Talend_Practice_Files/capgemini/parent_child.txt" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_yNydAVyREfC9BuzHAsgUrw" name="default" dataManager="_yNydAFyREfC9BuzHAsgUrw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_yNydAlyREfC9BuzHAsgUrw" id="_mKPyoFyREfC9BuzHAsgUrw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_yNydA1yREfC9BuzHAsgUrw" label="id" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_yNydBFyREfC9BuzHAsgUrw" label="name" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_yNydBVyREfC9BuzHAsgUrw" label="marks" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
